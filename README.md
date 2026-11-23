@@ -8,3 +8,4 @@ My Git learning progress:
 - Local repository
 - GitHub remote repository
 Practicing git commit command.
+Practicing git reset command.
